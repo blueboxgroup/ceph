@@ -1,3 +1,9 @@
+ceph (10.2.3~bbc1) UNRELEASED; urgency=medium
+
+  * Adding jemalloc support
+
+ -- Craig Tracey <craigtracey@gmail.com>  Wed, 31 Aug 2016 13:40:59 -0400
+
 ceph (10.2.2-1) stable; urgency=medium
 
   * New upstream release
